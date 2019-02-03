@@ -11,7 +11,7 @@ import retrofit2.http.POST;
 import retrofit2.http.Path;
 
 public interface ApiService {
-    String BASE_URL = "http://10.0.2.2:5000";
+    String BASE_URL = "http://" + BuildConfig.SERVER_IP + ":" + BuildConfig.SERVER_PORT;
 
     @POST("mobile")
     Call<Register.Response> register(@Body ApiService.Register register);
