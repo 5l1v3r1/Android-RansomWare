@@ -89,9 +89,8 @@ The project structre :
 * [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java
 
 
-### Screenshots
-![](screenshots/app_1.jpg)
-![](screenshots/app_2.jpg)
+### Demo
+![Demo](demo/video.gif)
 
 
 ## Authors
