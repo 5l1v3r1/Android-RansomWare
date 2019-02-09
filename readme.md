@@ -95,8 +95,8 @@ The project structre :
 
 ## Authors
 
-* [**Mohson BUTT**](https://github.com/Mohsan1995)
-* [**Quentin LEPRAT**](https://github.com/CrabeMan)
+* [**Mohson BUTT**](https://github.com/Mohsan1995) - Api Server
+* [**Quentin LEPRAT**](https://github.com/CrabeMan) - Android App
 
 
 ## License
