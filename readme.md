@@ -1,7 +1,10 @@
 # Ransomware
 
-This project is use used for provide a RSA key for crypted data for any android smartophone.
-The api is used in a android application.
+This project was made during an cryptography introduction week during ours cursus at [ESGI](https://www.esgi.fr) school.
+
+This project is split in two component:
+* An Python Api which register, provide and store private/public keys of each devices
+* An Android App which encrypt/decrypt data from phone
 
 ## Getting Started
 
